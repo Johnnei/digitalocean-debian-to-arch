@@ -119,6 +119,7 @@ host_packages=(
 	haveged
 	parted
 	psmisc
+	zstd
 )
 
 arch_packages=(
